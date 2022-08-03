@@ -1,1 +1,29 @@
 https://stackabuse.com/creating-a-rest-api-with-django-rest-framework/
+
+shopping_cat is the main Djanog Project (setting.py)
+
+App Name -->api_app
+
+OOPs  Inheritance
+
+
+A
+	B (CartItem)
+
+Database related thing are models
+
+
+Table
+	1. product_name
+	2. product_price
+	3. product_qty
+
+
+Model->admin.py (Register)->migrationsFIles------>migrate---->table
+
+Client --------->JSON--------------> Server 
+Client <---------JSON-------------- Server 
+
+List ---> JSON
+Sets ----> JSON
+Touple ---> JSON
